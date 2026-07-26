@@ -70,13 +70,6 @@ I am passionate about architecting highly scalable backend services, optimizing 
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandipto729&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandipto729&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
 <br/>
 
 <div align="center">
