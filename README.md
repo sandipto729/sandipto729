@@ -3,17 +3,27 @@
   <h3>Software Engineer | System Design & Distributed Systems Enthusiast</h3>
   <p>Final-year Computer Science and Engineering undergraduate at NIT Durgapur.</p>
   
+<div align="center">
+
   <p align="center">
     <a href="mailto:sandipto729@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+
     <a href="https://linkedin.com/in/sandipto-roy-675600277" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+
+    <a href="https://gitlab.com/sandipto729" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    </a>
+
+    
     <a href="https://auth.geeksforgeeks.org/user/sandipict3" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
   </p>
+
 </div>
 
 ---
